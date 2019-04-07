@@ -250,7 +250,7 @@ CLIENT_CONFIG = {
     'list_animations': True,  # Enables or disables the animations for list item select boxes
 }
 
-LANGUAGES = ['en', 'fi', 'cs']
+LANGUAGES = ['en', 'fi']
 DEFAULT_LANGUAGE = 'en'
 
 # Enable iframely support for item body_html
